@@ -1,0 +1,6 @@
+@Employment_System_Api_V3_HostAddress = http://localhost:5157
+
+GET {{Employment_System_Api_V3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
